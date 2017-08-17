@@ -26,7 +26,7 @@ const (
 	CF_API_TIMEOUT = 1 * time.Minute
 
 	// timeout for most cf cli calls
-	CF_TIMEOUT_IN_SECONDS = 30
+	CF_TIMEOUT_IN_SECONDS = 45
 
 	// timeout for cf push cli calls
 	CF_PUSH_TIMEOUT_IN_SECONDS = 300
